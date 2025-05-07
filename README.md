@@ -2,7 +2,7 @@
 
 An Electron-based desktop application for managing Docker containers. This application provides a user-friendly interface to pull Docker images, manage running containers. This application helps to supply docker services to intended users in a organization where we have private docker repository as a hub.
 
-![Application Screenshot](https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg)
+![image](https://github.com/user-attachments/assets/bd171177-2294-42b6-bd78-2ffadb97f726)
 
 ## Features
 
